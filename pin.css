@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 43vh;
+    width: 35%;
+    background-color: aqua;
+    margin-left: 30%;
+}
+.plus{
+    height: 60px;
+    width: 100%;
+    background-color: palevioletred;
+}
+.active{
+    height: 55px;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    gap: 10px;
+}
+.worry{
+    height: 60px;
+    width: 100%;
+    background-color: brown;
+}
+.happy{
+    height: 60px;
+    width: 100%;
+    background-color: ghostwhite;
+}
+.plus img{
+    height: 45%;
+    padding-left: 45%;
+    margin-top: 20px;
+    
+}
+.th{
+    height: 33px;
+    width: 30%;
+    background-color: chartreuse;
+    border-radius: 25px;
+    border: 1px solid gainsboro;
+    margin-left: 6px;
+    font-size: 15px;
+    color: blueviolet;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thh{
+    height: 33px;
+    width: 30%;
+    background-color: blueviolet;
+    border-radius: 25px;
+    border: 1px solid gainsboro;
+    margin-left: 6px;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.wb{
+    height: 90%;
+    width: 90%;
+    background-color: aliceblue;
+    margin-left: 3px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
